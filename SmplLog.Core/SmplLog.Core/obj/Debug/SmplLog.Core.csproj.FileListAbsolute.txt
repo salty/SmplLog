@@ -1,0 +1,25 @@
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.pdb
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.pdb
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.pdb
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\ResolveAssemblyReference.cache
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.pdb
+H:\1Work\Smpllog\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.dll
+H:\1Work\Smpllog\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.pdb
+H:\1Work\Smpllog\SmplLog.Core\SmplLog.Core\obj\Debug\ResolveAssemblyReference.cache
+H:\1Work\Smpllog\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.dll
+H:\1Work\Smpllog\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.pdb
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.Core\bin\Debug\SmplLog.Core.pdb
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.Core\obj\Debug\SmplLog.Core.pdb

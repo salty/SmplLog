@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="H:\1Work\SmplLog 2.0.0.0\Project1.nunit" total="4" errors="2" failures="0" not-run="0" ignored="0" skipped="0" invalid="0" date="2009-07-06" time="17:12:11">
+  <environment nunit-version="2.5.0.9122" clr-version="2.0.50727.3082" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="H:\Program Files\NUnit 2.5\bin\net-2.0" machine-name="NPDDEV2" user="Kelly" user-domain="MONTAGE1" />
+  <culture-info current-culture="en-NZ" current-uiculture="en-US" />
+  <test-suite name="H:\1Work\SmplLog 2.0.0.0\Project1.nunit" executed="True" success="False" time="0.141" asserts="0">
+    <results>
+      <test-suite name="H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Debug\SmplLog.UnitTests.dll" executed="True" success="False" time="0.141" asserts="0">
+        <results>
+          <test-suite name="SmplLog" executed="True" success="False" time="0.141" asserts="0">
+            <results>
+              <test-suite name="UnitTests" executed="True" success="False" time="0.125" asserts="0">
+                <results>
+                  <test-suite name="FileAppenderTests" executed="True" success="False" time="0.125" asserts="0">
+                    <results>
+                      <test-case name="SmplLog.UnitTests.FileAppenderTests.CanInitiliseAppenderParamsFromConfigFile" executed="True" success="True" time="0.047" asserts="0" />
+                      <test-case name="SmplLog.UnitTests.FileAppenderTests.FileAppenderCreatesFileIfNotExists" executed="True" success="True" time="0.000" asserts="1" />
+                      <test-case name="SmplLog.UnitTests.FileAppenderTests.MinimalLockPreventFileIOExceptionsWithMultipleAppenders" executed="True" success="False" time="0.016" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.IO.IOException : The process cannot access the file 'H:\log.txt' because it is being used by another process.]]></message>
+                          <stack-trace><![CDATA[at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+at System.IO.File.Delete(String path)
+at SmplLog.UnitTests.FileAppenderTests.MinimalLockPreventFileIOExceptionsWithMultipleAppenders() in H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\FileAppenderTests.cs:line 46
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                      <test-case name="SmplLog.UnitTests.FileAppenderTests.OverwriteFileGeneratesNewUnqiueFileName" executed="True" success="False" time="0.047" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.IO.IOException : The process cannot access the file 'H:\log.txt' because it is being used by another process.]]></message>
+                          <stack-trace><![CDATA[at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+at System.IO.File.Delete(String path)
+at SmplLog.UnitTests.FileAppenderTests.OverwriteFileGeneratesNewUnqiueFileName() in H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\FileAppenderTests.cs:line 127
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

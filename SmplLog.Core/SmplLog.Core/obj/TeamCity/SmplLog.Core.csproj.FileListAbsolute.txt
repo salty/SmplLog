@@ -1,0 +1,5 @@
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\bin\TeamCity\SmplLog.Core.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\bin\TeamCity\SmplLog.Core.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\TeamCity\ResolveAssemblyReference.cache
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\TeamCity\SmplLog.Core.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.Core\obj\TeamCity\SmplLog.Core.pdb

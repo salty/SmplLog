@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4B94E73-384C-458D-96C5-E21CF7E87EA9}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		..\Lib\nunit.framework.dll = ..\Lib\nunit.framework.dll
+		SmplLog.Core.vsmdi = SmplLog.Core.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmplLog.Core", "SmplLog.Core\SmplLog.Core.csproj", "{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmplLog.FunctionalTests", "SmplLog.FunctionalTests\SmplLog.FunctionalTests.csproj", "{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmplLog.UnitTests", "SmplLog.UnitTests\SmplLog.UnitTests.csproj", "{3337598A-BA7B-49E6-9382-4C8FECD2D042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmplLog.ServiceTest", "SmplLog.ServiceTest\SmplLog.ServiceTest.csproj", "{027465F4-A4B0-482F-957A-FC5CB68D31B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmplLogWebTests", "SmplLogWebTests\SmplLogWebTests.csproj", "{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SmplLog.NewWebTests", "SmplLog.NewWebTests\", "{FF92E4A9-0E51-4881-A011-B346C45EF0E8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}|SmplLog.Core.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/SmplLog.NewWebTests"
+		Debug.AspNetCompiler.PhysicalPath = "SmplLog.NewWebTests\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SmplLog.NewWebTests\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SmplLog.NewWebTests"
+		Release.AspNetCompiler.PhysicalPath = "SmplLog.NewWebTests\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SmplLog.NewWebTests\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1212"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SP1|Any CPU = SP1|Any CPU
+		TeamCity|Any CPU = TeamCity|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.SP1|Any CPU.ActiveCfg = SP1|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.SP1|Any CPU.Build.0 = SP1|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.TeamCity|Any CPU.ActiveCfg = TeamCity|Any CPU
+		{3DA1CE94-D235-4B48-A2AC-B6D9972F1214}.TeamCity|Any CPU.Build.0 = TeamCity|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.SP1|Any CPU.ActiveCfg = SP1|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.SP1|Any CPU.Build.0 = SP1|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.TeamCity|Any CPU.ActiveCfg = TeamCity|Any CPU
+		{BB0D6BF5-6C87-4E3E-A6C4-E125C4EF9019}.TeamCity|Any CPU.Build.0 = TeamCity|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.SP1|Any CPU.ActiveCfg = SP1|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.SP1|Any CPU.Build.0 = SP1|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.TeamCity|Any CPU.ActiveCfg = TeamCity|Any CPU
+		{3337598A-BA7B-49E6-9382-4C8FECD2D042}.TeamCity|Any CPU.Build.0 = TeamCity|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.SP1|Any CPU.ActiveCfg = SP1|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.SP1|Any CPU.Build.0 = SP1|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.TeamCity|Any CPU.ActiveCfg = TeamCity|Any CPU
+		{027465F4-A4B0-482F-957A-FC5CB68D31B9}.TeamCity|Any CPU.Build.0 = TeamCity|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.SP1|Any CPU.ActiveCfg = SP1|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.SP1|Any CPU.Build.0 = SP1|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.TeamCity|Any CPU.ActiveCfg = TeamCity|Any CPU
+		{108C1078-FB38-4AB5-AEC1-DF8E91B63E75}.TeamCity|Any CPU.Build.0 = TeamCity|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.SP1|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.SP1|Any CPU.Build.0 = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.TeamCity|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF92E4A9-0E51-4881-A011-B346C45EF0E8}.TeamCity|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

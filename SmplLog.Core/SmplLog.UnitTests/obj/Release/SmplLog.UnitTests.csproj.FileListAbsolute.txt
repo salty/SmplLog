@@ -1,0 +1,33 @@
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.dll.config
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.pdb
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\nunit.framework.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.pdb
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.pdb
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.pdb
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\nunit.framework.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.pdb
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\ResolveAssemblyReference.cache
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.dll
+H:\1Work\SmplLog 2.0.0.0\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\Release\nunit.framework.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.pdb
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.pdb
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.UnitTests.pdb
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\bin\Release\nunit.framework.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\bin\Release\SmplLog.Core.pdb
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.dll
+C:\Dev\SmplLog\SmplLog.Core\SmplLog.UnitTests\obj\Release\SmplLog.UnitTests.pdb
