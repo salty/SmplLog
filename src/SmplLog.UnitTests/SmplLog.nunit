@@ -1,0 +1,13 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" binpathtype="Auto">
+    <assembly path="bin\Debug\SmplLog.UnitTests.dll" />
+    <assembly path="bin\Debug\SmplLog.UnitTests.dll" />
+  </Config>
+  <Config name="Release" binpathtype="Auto">
+    <assembly path="bin\Release\SmplLog.UnitTests.dll" />
+  </Config>
+  <Config name="TeamCity" binpathtype="Auto">
+    <assembly path="bin\TeamCity\SmplLog.UnitTests.dll" />
+  </Config>
+</NUnitProject>
