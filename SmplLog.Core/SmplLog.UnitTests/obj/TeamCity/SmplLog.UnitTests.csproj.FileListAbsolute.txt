@@ -1,8 +1,0 @@
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\TeamCity\SmplLog.UnitTests.dll
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\TeamCity\SmplLog.UnitTests.pdb
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\TeamCity\nunit.framework.dll
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\TeamCity\SmplLog.Core.dll
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\bin\TeamCity\SmplLog.Core.pdb
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\TeamCity\ResolveAssemblyReference.cache
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\TeamCity\SmplLog.UnitTests.dll
-C:\Dev\SmplLog\trunk\SmplLog.Core\SmplLog.UnitTests\obj\TeamCity\SmplLog.UnitTests.pdb
